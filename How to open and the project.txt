@@ -1,0 +1,20 @@
+For opening and running the project download xammp server.
+
+https://www.apachefriends.org/index.html
+
+After installing xammp start Appache server and mysql in xammp control panel.
+Go to xammp folder and paste the project folder in htdocs folder.
+Click on admin on right on in xammp control panel mysql.
+Create a Database named realestate and import the database file from the project.
+After importing the database file,go back to xammp control panel press admin on right of appache then paste the below link in the browser
+
+http://localhost/RealEstateDbmsProject/100hectorscom/Home.php
+
+Admin Login:admin1@gmail.com
+
+User Login:tinku@gmail.com
+
+Admin you can insert properties.
+
+User can buy and sell properties.
+
